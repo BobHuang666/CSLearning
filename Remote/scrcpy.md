@@ -35,6 +35,10 @@ scrcpy --keyboard=uhid
 
 电脑输入法保持为英文！--keyboard=uhid可以输入中文
 
+其他版本或有问题请查阅官方文档
+
+[Genymobile/scrcpy：显示和控制您的 Android 设备 --- Genymobile/scrcpy: Display and control your Android device](https://github.com/Genymobile/scrcpy)
+
 ## zerotier
 
 不需要在同一个wifi，实现内网穿透
